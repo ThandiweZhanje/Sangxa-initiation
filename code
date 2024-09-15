@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xhosa Initiation Ceremony Invitation</title>
+    <style>
+        body {
+
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #003366;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+
+        .date {
+            font-size: 1.5em;
+            color: #e91e63;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .location {
+            font-size: 1.5em;
+            color: #4caf50;
+            font-weight: bold;
+        }
+
+        .rsvp {
+            margin-top: 30px;
+        }
+
+        .rsvp a {
+            background-color: #003366;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+        }
+
+        .rsvp a:hover {
+            background-color: #e91e63;
+        }
+
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Xhosa Initiation Ceremony</h1>
+        <p>
+            You are warmly invited to join us for the sacred Xhosa initiation ceremony and the celebration honoring the mother of the initiate.
+        </p>
+        <p class="date">
+            Date: 4 January 2024
+        </p>
+        <p class="location">
+            Location: Eastern Cape, South Africa
+        </p>
+        <div class="rsvp">
+            <a href="mailto:example@email.com">RSVP Here</a>
+        </div>
+    </div>
+
+    <footer>
+        © 2024 Xhosa Initiation Ceremony | All rights reserved.
+    </footer>
+</body>
+</html>
